@@ -2,7 +2,7 @@
 
 ### Architecture
 - Python 3.10
-- Flesk 1.2.1
+- [Flask 1.2.1](https://flask.palletsprojects.com/en/2.1.x/)
 - Pytest
 
 ### Instructions
